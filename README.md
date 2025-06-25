@@ -2,6 +2,8 @@
 
 **Knight Survivor** é um jogo simples desenvolvido como parte de um **desafio da trilha de Godot** da [DIO (Digital Innovation One)](https://www.dio.me/). Este foi o meu **primeiro protótipo** feito usando a engine **Godot**, com o objetivo de aplicar os conhecimentos adquiridos durante o curso e dar os primeiros passos no desenvolvimento de jogos.
 
+🔗 **Jogue agora:** [https://profetics.itch.io/knight-survivor](https://profetics.itch.io/knight-survivor)
+
 ## 🎮 Sobre o jogo
 
 Em *Knight Survivor*, você controla um pequeno cavaleiro enfrentando três tipos diferentes de inimigos: **goblins**, **peões** e **ovelhas**.
